@@ -1,0 +1,25 @@
+{
+  "name": "FileWatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnGiEYaNg/IntroToNode.git"
+  },
+  "author": "Angie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnGiEYaNg/IntroToNode/issues"
+  },
+  "homepage": "https://github.com/AnGiEYaNg/IntroToNode",
+  "dependencies": {
+    "async": "^0.9.0",
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
+    "morgan": "^1.5.2"
+  }
+}
